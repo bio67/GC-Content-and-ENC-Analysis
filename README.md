@@ -28,4 +28,4 @@ python enc_analysis.py
 
 ## Contact
 
-For questions, contact [Your Name] at [bio_67@163.com].
+For questions, contact [bio_67] at [bio_67@163.com].
